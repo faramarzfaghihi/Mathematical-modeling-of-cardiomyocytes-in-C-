@@ -1,4 +1,4 @@
-// C++ code for Ten Tusscher 2004
+// C++ code for model : Ten Tusscher 2004
 // Written by Faramarz Faghihi using Chaste_code from CellML model
 
 //------------------------------- Headers -------------------------------------

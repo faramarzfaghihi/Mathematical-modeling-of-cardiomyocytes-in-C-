@@ -1,4 +1,5 @@
-
+// C++ code for model : Fink et al., 2007
+// Written by Faramarz Faghihi using Chaste_code from CellML model
 
 #include <iostream>
 #include <cstdlib>

@@ -1,3 +1,5 @@
+// C++ code for model : Grandi et al., 2010
+// Written by Faramarz Faghihi using Chaste_code from CellML model
 
 
 
